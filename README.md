@@ -3,13 +3,24 @@ MPhil Holocene Climates thesis:
 
 This repository includes three main analysis scripts:
 
-1. Regime shift analysis adapted from Monteath et al. (2025)
-2. Summed probability distributions
-3. Dispersal analysis using circular statistics
+1. Monteath_adapted.R ~ Implements regime shift analysis adapted from Monteath et al. (2025)
+2. SPD.R ~ Implements summed probability distributions and CPL model fitting
+3. Dispersal_analysis.R ~ Implements dispersal direction analysis using circular statistics
 
-It also includes code to reproduce figures:
 
-Dataset visualisation: maps and histograms
-Monteath et al. (2025)- style figures
-Summed probability distribution figures
-Dispersal analysis figures
+It also includes three key spreadsheets:
+
+1. Mediterranean_tephra_data.xlsx ~ The data compilation, containing distal Mediterranean tephra for ~25 ka BP
+2. CPL_model_fits.xlsx ~ Results of CPL model fitting (from SPD.R)
+3. Circular_stats_results.xlsx ~ Results of circular statistics (from Dispersal_analysis.R)
+
+
+Finally, it includes code to reproduce figures, as they appear in text:
+
+Figure 2 ~ North_america_map.R
+Figure 3 ~ ERA5_figure.R
+Figure 4 & 5 ~ TraCE21k_figure.R
+Figure 6 ~ Site_map.R
+Figure 7 ~ Histogram.R
+Figure 8, 9 & 10 ~ Deposition_analysis.R
+Figure 11, 12, 13, 14 & 15 ~ Dispersal_analysis_figures.R
