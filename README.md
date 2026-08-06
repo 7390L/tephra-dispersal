@@ -17,10 +17,10 @@ It also includes three key spreadsheets:
 
 Finally, it includes code to reproduce figures, as they appear in text:
 
-Figure 2 ~ North_america_map.R
-Figure 3 ~ ERA5_figure.R
-Figure 4 & 5 ~ TraCE21k_figure.R
-Figure 6 ~ Site_map.R
-Figure 7 ~ Histogram.R
-Figure 8, 9 & 10 ~ Deposition_analysis.R
-Figure 11, 12, 13, 14 & 15 ~ Dispersal_analysis_figures.R
+- Figure 2 ~ North_america_map.R
+- Figure 3 ~ ERA5_figure.R
+- Figure 4 & 5 ~ TraCE21k_figure.R
+- Figure 6 ~ Site_map.R
+- Figure 7 ~ Histogram.R
+- Figure 8, 9 & 10 ~ Deposition_analysis.R
+- Figure 11, 12, 13, 14 & 15 ~ Dispersal_analysis_figures.R
