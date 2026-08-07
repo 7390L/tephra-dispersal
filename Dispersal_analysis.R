@@ -1016,4 +1016,4 @@ RESULTS_FILE <- sprintf("analysis_results_%s_%s.rds", GROUPING_SCHEME, BINNING_S
 saveRDS(analysis_results, RESULTS_FILE)
 cat("\nAnalysis bundle written to", RESULTS_FILE, "\n")
 
-# Plotting occurs in Dispersal_analysis_figures_final.R
+# Plotting occurs in Dispersal_analysis_figures.R
